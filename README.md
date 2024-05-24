@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinícius Corrêa</h1>
+## Welcome to my profile! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vncorrea&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-correa" /> </p>
+Olá! Sou o Vinícius.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vn_correa&count_private=true&show_icons=true&theme=onedark" /> </p>
 
-- 📫 How to reach me **vinicorreag2001@gmail.com**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width='50px'/>
@@ -20,11 +20,4 @@
 
 ## Follow my journey! 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-pires-felipe-9844ab160/)](https://www.linkedin.com/in/ant%C3%B4nio-pires-felipe-9844ab160/)
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-correa-dev/)](https://www.linkedin.com/in/vinicius-correa-dev/)
