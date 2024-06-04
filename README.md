@@ -2,7 +2,7 @@
 
 Olá! Sou o Vinícius.
 
-<p align="center"> <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vncorrea&show_icons=true&theme=radical)" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vncorrea&show_icons=true&theme=radical" /> </p>
 
 
 <p align="center">
