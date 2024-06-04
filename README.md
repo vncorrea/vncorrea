@@ -2,7 +2,7 @@
 
 Olá! Sou o Vinícius.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vncorrea&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vncorrea&include_all_commits=true&count_private=true&random=232341sd2f" /> </p>
 
 
 <p align="center">
