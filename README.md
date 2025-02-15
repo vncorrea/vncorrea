@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Vinícius and I'm a Fullstack Developer, from Brazil</h2>
+<h2 align="center">Vinícius Corrêa
+<img src="https://cdn-icons-png.freepik.com/256/5315/5315340.png?semt=ais_hybrid" height="20" width="20" style="margin-left: 10px;">
 
 ###
 
